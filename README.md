@@ -5,6 +5,8 @@
 
 数据的部分是用的 json-server 模拟的虚拟数据。
 
+心血来潮写了个英文文档  Σ( ￣д￣；)
+
 
 
 ## 技术栈
@@ -31,7 +33,7 @@ npm run dev
 
 
 
-##演示：
+## 效果演示：
 
 [demo](https://paraslee.github.io/vue2-practice/dist/)
 
