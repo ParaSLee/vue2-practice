@@ -31,7 +31,7 @@ npm run dev
 
 
 
-##演示：
+## 效果演示：
 
 [demo](https://paraslee.github.io/vue2-practice/dist/)
 
