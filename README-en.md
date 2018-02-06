@@ -34,7 +34,7 @@ npm run dev
 
 ## Demo：
 
-[click it](http://cangdu.org:8001/)
+[click it](https://paraslee.github.io/vue2-practice/dist/)
 
 
 

@@ -31,9 +31,9 @@ npm run dev
 
 
 
-##效果演示：
+##演示：
 
-[demo](http://cangdu.org:8001/)
+[demo](https://paraslee.github.io/vue2-practice/dist/)
 
 
 
